@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763289792134",
+    "firebase_url": "https://introtuce-officiallygod-default-rtdb.firebaseio.com",
+    "project_id": "introtuce-officiallygod",
+    "storage_bucket": "introtuce-officiallygod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763289792134:android:b96f8aa1cfd08adb8ceb07",
+        "android_client_info": {
+          "package_name": "com.allen.introtuce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763289792134-0jv0gmlnoff201co8s0r764jeqlob12n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allen.introtuce",
+            "certificate_hash": "2ec9c25d68ae39a4c84c79d99492b2dc54a63ee2"
+          }
+        },
+        {
+          "client_id": "763289792134-gsgta0pvo4q4210qau005mc2jtpiavmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYtpuA0U___M8TCGljTU0g7z6NC89wQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763289792134-gsgta0pvo4q4210qau005mc2jtpiavmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
